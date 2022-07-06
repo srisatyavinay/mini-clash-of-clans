@@ -1,4 +1,4 @@
-# DASS_assignment_3 (Mini Clash of Clans)
+# Mini Clash of Clans
 
 ## Game controls
 
